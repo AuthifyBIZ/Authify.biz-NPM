@@ -1,0 +1,28 @@
+{
+  "name": "authify.biz-npm",
+  "version": "1.0.0",
+  "description": "JavaScript example for authify.biz",
+  "main": "authify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuthifyBIZ/Authify.biz-NPM.git"
+  },
+  "keywords": [
+    "authifybiz",
+    "auth",
+    "js",
+    "authify.biz"
+  ],
+  "author": "Clynt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuthifyBIZ/Authify.biz-NPM/issues"
+  },
+  "homepage": "https://github.com/AuthifyBIZ/Authify.biz-NPM#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
