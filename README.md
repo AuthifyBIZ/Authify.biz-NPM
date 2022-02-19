@@ -53,7 +53,3 @@ API.log('username', 'message', 'program_key', 'api_key').then(() => {
 ```
 
 ---
-
-### API Documentation
-
-[https://setup.authify.biz/](https://setup.authify.biz/)
