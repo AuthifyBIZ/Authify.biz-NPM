@@ -32,7 +32,7 @@ API.loginUser('username', 'password', 'program_key', 'api_key').then(() => {
 });
 
 
-API.registerUSer('username', 'email', 'password', 'token', 'program_key', 'api_key').then(() => {
+API.registerUser('username', 'email', 'password', 'token', 'program_key', 'api_key').then(() => {
     console.log('Register success');
 }).catch((error) => {
     console.log('Register error: ' + error);
